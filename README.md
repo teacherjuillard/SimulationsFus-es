@@ -4,7 +4,7 @@ L'activité décrite dans le sujet guide les élèves dans une suite de missions
 
 A l'issue de la mission 2, les élèves peuvent compléter le code du fichier _Simulation_decollage.py_ et l'éxécuter. Si leur solution est correcte, la fusée décolle correctement. Sinon elle explose.
 
-A l'issue de la mission 3, les élèves peuvent compléter le code du fichier _Simulation_trajectoire.py_ et l'exécuter. Si leur solution est correcte, la fusée atteint Jupiter. Sinon la echoue.
+A l'issue de la mission 3, les élèves peuvent compléter le code du fichier _Simulation_trajectoire.py_ et l'éxécuter. Si leur solution est correcte, la fusée atteint Jupiter. Sinon la simulation échoue.
 
 ### Consignes d'utilisation:
 - Pour l'execution du code, vérifiez que vous exécutez bien le fichier .py depuis le dossier qui contient toutes les ressources necessaires.
